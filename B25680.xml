@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In Holbourn over against Southampton-Square, at the coffin and child, against the watch-house, next door to the sugar-loaf and role, where you will see the golden-ball hanging over the passage door, liveth Anne Laverenst a German Gentlewoman.</title>
+            <author>Laverenst, Anne.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25680</idno><idno type="EEBO-CITATION">99888827_196063</idno>
+  <idno type="VID">196063</idno>
+  <idno type="EEBO-PROQUEST">2269048275</idno>
+  
+            <idno type="STC">Wing L626A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[31]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[72]</idno>
+            <idno type="STC">ESTC R232173</idno>
+            <idno type="PROQUEST">ocm99888827</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888827e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196063)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[31], E8:2[71])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In Holbourn over against Southampton-Square, at the coffin and child, against the watch-house, next door to the sugar-loaf and role, where you will see the golden-ball hanging over the passage door, liveth Anne Laverenst a German Gentlewoman.</title>
+                  <author>Laverenst, Anne.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With border.</note>
+                  <note>Imperfect: item at reel E8:2[31])is foxed and faded at foot with some loss of text; reel E8, (551.a.32.[72] appears to be a variant with "Anne Paverenst" instead in caption title; [72] also appears faded at head in caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Women --  Medical examinations --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:196063:1"/>
+            <head>In <hi>Holb<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n</hi> ove<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aga<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>So<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ampton Square,</hi> at the <hi>Coffin</hi>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Child,</hi> against the <hi>Watch-house,</hi> next Door but one to the <hi>Syde-Mi<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> where you will see the <hi>Golden-<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all</hi> hanging over the P<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssage Door, liveth <hi>Anne <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>averen<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> a <hi>G<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rman</hi> Gentlewoman.</head>
+            <p>BEing but very lately arriv'd in this Kingdom, and so consequen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly a Stranger, I could not propose a better method to make my self known, than by this Printed Paper, without which, I might for some Years have remained unknown to you; and so consequently incapable of imploying that Talent which Heaven hath bestow'd on me, for all your benefits and good. My Parents before me were so far Skill'd in the Art and Knowledge of Physick, that they have remov'd the most dangerous Distempers, and have seldom or never fail'd wholsomly to assist Nature in the discharge of her duty. From them I receiv'd the great Knowledge and Experience that I now profess, and question not but (by the Blessing of God) I shall be able to Cure any Distemper incident to Woman kind: A few of which I shall here give you an Account.</p>
+            <p>
+               <hi>First,</hi> I cure all Women or Maids of the Suffocation or rising of the Mother, which may be occasioned through any rotten Substance, or through a Corrup<g ref="char:EOLhyphen"/>tion in Nature, or by an Imposthumation in the Womb, which may be easily discern'd, for there of<g ref="char:EOLhyphen"/>tentimes proceeds a great Dizziness in the head, An<g ref="char:EOLhyphen"/>guish of Heart, an inclination to Vomit, much rising and tumbling in the Belly, from whence oftentimes proceeds very satal Accidents; as Barrenness, Impost<g ref="char:EOLhyphen"/>humes, Inflamations of the Lungs, an unusual Paleness, and shivering in the Limbs, Chollick, Strangulion, Ob<g ref="char:EOLhyphen"/>structions, Wringings, and Terti<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of the Guts, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> I cure out-sinking, down-falling, out-hanging of the Matrix, that is when the Ligaments or Strings that bind the mother fast to the body, removes from its place, occasioned either by bearing of Children, violent Coughing, heavy work,
+<pb facs="tcp:196063:2"/> in 14 or 20 days, I artificially return to its proper place, which I challenge any Person to do but my self.</p>
+            <p>I also cure Women or Maids that are subject to Vomiting, and take from them, the quivering and shaking, occasion'd by the same Infirmity. I also cure hard Bellies, swell'd as with Child, or as if troubl'd with the Dropsie. There is yet another sort of Sick<g ref="char:EOLhyphen"/>ness, when the Melancholly is not cleans'd and taken away, it oc<g ref="char:EOLhyphen"/>casions grief and heavy thoughts, nay sometimes Ragings, and an ill mind towards themselves and others. I cure the <hi>Piles</hi> or <hi>He<g ref="char:EOLhyphen"/>morhoids</hi> in the Fundament, all Warts, Excrescences, or super<g ref="char:EOLhyphen"/>fluous flesh in the mouth of the Bladder or womb.</p>
+            <p>I also cure Ruptures or Bursten-Bellies either in Women or Children; nay though they have had it many years. I take the Stone from Women and Maids, without cutting, which no Woman (except my Mother) did before me. I have also an approv'd Remedy for a pain in the Loyns, or small of the Back, whether proceeding from Gravel or Child-bearing, As also a pain in making water, or those that cannot hold their water, but are troubled with a constant leaking or droping as they go, let it proceed from what cause it will. I drive away all Gouty pains in the Joynts; nay tho' your Arms and Legs were grown crooked through a contraction, or sinking of the Sinews; nay though you have kept your Bed for many years, by the blessing of God, I don't doubt but to relieve you. I cure many sad Accidents in the Eyes, as Spots, Specks, Pearls, Water-sinkings, hot and violent <hi>Rheums,</hi> and many more too tedious here to relate. I also cure the Mor<g ref="char:EOLhyphen"/>bus Gallicus or French Pox, with all its Symptoms, and dangerous Effects, with ease, speed, and secresie; nay, tho tamper'd with and almost ruin'd by others. I dare presume few has arriv'd to the perfection in this Cure as my self. There are many other Cures in Women, I shall conclude with this, that I correct all Vices of the <hi>Matrix,</hi> and refresh all the weak Faculties of the Body, by this means rendring a Woman capable of Conception, that before was Barren.</p>
+            <p>Those that are not able to come to me, let them but send their Urine, and on sight thereof, I will resolve them what their Distem<g ref="char:EOLhyphen"/>per is, and if cureable will perform it at a reasonable rate, but if not cureable, will plainly and honestly tell them, that they may not be defrauded by others.</p>
+            <p>If any Persons troubled with Distempers, whether through weakness, or that the nature of the Distemper requires a close Confinement to their Chambers, if desired they may be Lodg'd at my House, and accomodated with all things necessary at a reasonable Rate.</p>
+            <p>My Hours are from Eight in the Morning till Twelve at Noon, and from Two till Nine at Night.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
